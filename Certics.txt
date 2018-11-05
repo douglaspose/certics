@@ -1,0 +1,51 @@
+CERTICS
+
+Organização solicitante: 
+Software:
+
+
+
+Área de Competência Desenvolvimento Tecnológico (DES)
+
+ 
+DES.1. Competência sobre Arquitetura
+DES.2. Competência sobre Requisitos
+DES.3. Fases e Disciplinas Compatíveis com o Software
+DES.4. Papéis e Pessoas Identificados
+DES.5. Dados Técnicos Relevantes Documentados
+DES.6. Competência para Suporte e Evolução do Software
+
+
+..................................................................
+
+
+Área de Competência Gestão de Tecnologia (TEC)
+
+
+TEC.1. Utilização de Resultados de Pesquisa e Desenvolvimento Tecnológico
+TEC.2. Apropriação das Tecnologias Relevantes Utilizadas no Software
+TEC.3. Introdução de Inovações Tecnológicas
+TEC.4. Capacidade Decisória nas Tecnologias Relevantes do Software
+
+
+..................................................................
+
+
+Área de Competência Gestão de Negócios (GNE)
+
+
+GNE.1. Ações de Monitoramento do Mercado
+GNE.2. Ações de Antecipação e Atendimento das Necessidades dos Clientes
+GNE.3. Evolução do Negócio Relacionado ao Software
+
+..................................................................
+
+
+Área de Competência Melhoria Contínua (MEC) 
+
+
+MEC.1. Contratação, Treinamento e Incentivo aos Profissionais Qualificados
+MEC.2. Disseminação do Conhecimento Relacionado ao Software
+MEC.3. Ações de Melhorias nos Processos
+
+
