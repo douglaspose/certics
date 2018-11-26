@@ -15,7 +15,8 @@ DES.1. Competência sobre Arquitetura
 A Unidade Organizacional tem competência sobre os elementos relevantes da arquitetura do
 software e sua implementação.
 
-- Sim.
+- Na pasta DES/1 contem o projeto de arquitetura do software, os documentos dos colaboradores 
+e os certificados que comprovam a capacitação dos mesmos.
 
 
 
@@ -25,7 +26,7 @@ DES.2. Competência sobre Requisitos
 A Unidade Organizacional tem competência sobre os requisitos relacionados à tecnologia
 relevante do software.
 
-- Sim.
+- Na pasta DES/2 contem a analise de requisitos do software em relação as tecnologias do software.
 
 
 
@@ -35,6 +36,8 @@ DES.3. Fases e Disciplinas Compatíveis com o Software
 As fases e disciplinas realizadas para o desenvolvimento são compatíveis com o software
 gerado.
 
+- Na pasta DES/3 contém a estimativa e cronogramas com as fases do desenvolvimento.
+
 
 
 
@@ -43,12 +46,17 @@ DES.4. Papéis e Pessoas Identificados
 Os papéis e as pessoas que atuaram no software estão identificados, são compatíveis com o
 desenvolvimento e geraram competência tecnológica na Unidade Organizacional.
 
+- Na pasta DES/4 segue o cronograma com a alocação de pessoas/horas.
+
 
 
 
 DES.5. Dados Técnicos Relevantes Documentados
 
 Dados técnicos relevantes da tecnologia do software estão documentados e são de fácil acesso.
+
+]
+- Na pasta DES/5 contem a documentação dos requisitos e a literatura relacionada a tecnologia do software.
 
 
 
@@ -58,6 +66,7 @@ DES.6. Competência para Suporte e Evolução do Software
 A Unidade Organizacional tem competência para realizar atividades de suporte e evolução
 relacionadas ao software.
 
+- Na pasta DES/6 contem o registro de treinamentos de profissionais qualificados para atividades de suporte e evolução.
 
 
 ..................................................................
