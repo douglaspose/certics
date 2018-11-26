@@ -1,7 +1,7 @@
 CERTICS
 
-Organização solicitante: 
-Software:
+Organização solicitante: TV DG
+Software: Sistema de Gerenciamento de Atendimento - SGA
 
 ..................................................................
 ..................................................................
