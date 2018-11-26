@@ -3,49 +3,156 @@ CERTICS
 Organização solicitante: 
 Software:
 
+..................................................................
+..................................................................
 
 
-Área de Competência Desenvolvimento Tecnológico (DES)
+***  Área de Competência Desenvolvimento Tecnológico (DES)  ***
 
  
 DES.1. Competência sobre Arquitetura
+
+A Unidade Organizacional tem competência sobre os elementos relevantes da arquitetura do
+software e sua implementação.
+
+- Sim.
+
+
+
+
 DES.2. Competência sobre Requisitos
+
+A Unidade Organizacional tem competência sobre os requisitos relacionados à tecnologia
+relevante do software.
+
+- Sim.
+
+
+
+
 DES.3. Fases e Disciplinas Compatíveis com o Software
+
+As fases e disciplinas realizadas para o desenvolvimento são compatíveis com o software
+gerado.
+
+
+
+
 DES.4. Papéis e Pessoas Identificados
+
+Os papéis e as pessoas que atuaram no software estão identificados, são compatíveis com o
+desenvolvimento e geraram competência tecnológica na Unidade Organizacional.
+
+
+
+
 DES.5. Dados Técnicos Relevantes Documentados
+
+Dados técnicos relevantes da tecnologia do software estão documentados e são de fácil acesso.
+
+
+
+
 DES.6. Competência para Suporte e Evolução do Software
+
+A Unidade Organizacional tem competência para realizar atividades de suporte e evolução
+relacionadas ao software.
+
 
 
 ..................................................................
+..................................................................
 
 
-Área de Competência Gestão de Tecnologia (TEC)
+***  Área de Competência Gestão de Tecnologia (TEC)  ***
 
 
 TEC.1. Utilização de Resultados de Pesquisa e Desenvolvimento Tecnológico
+
+O desenvolvimento do software utiliza resultados de pesquisa e desenvolvimento tecnológico
+(P&D).
+
+
+
 TEC.2. Apropriação das Tecnologias Relevantes Utilizadas no Software
+
+As tecnologias relevantes utilizadas no software são apropriadas pela Unidade Organizacional
+
+
+
+
 TEC.3. Introdução de Inovações Tecnológicas
+
+Ações para introduzir inovações tecnológicas no software são estimuladas e realizadas na
+Unidade Organizacional.
+
+
+
+
 TEC.4. Capacidade Decisória nas Tecnologias Relevantes do Software
+
+A Unidade Organizacional tem capacidade decisória sobre as tecnologias relevantes presentes
+no software.
+
+
 
 
 ..................................................................
+..................................................................
 
 
-Área de Competência Gestão de Negócios (GNE)
+***  Área de Competência Gestão de Negócios (GNE)  ***
 
 
 GNE.1. Ações de Monitoramento do Mercado
+
+Ações de monitoramento de aspectos relacionados ao mercado potencial e às funcionalidades
+relacionadas do software são realizadas
+
+
+
+
 GNE.2. Ações de Antecipação e Atendimento das Necessidades dos Clientes
+
+Ações de antecipação e atendimento de necessidades de clientes, relacionadas ao software,
+são realizadas.
+
+
+
+
 GNE.3. Evolução do Negócio Relacionado ao Software
 
+Ações para direcionar a evolução do negócio relacionado ao software são realizadas.
+
+
+
+
+..................................................................
 ..................................................................
 
 
-Área de Competência Melhoria Contínua (MEC) 
+***  Área de Competência Melhoria Contínua (MEC)   ***
 
 
 MEC.1. Contratação, Treinamento e Incentivo aos Profissionais Qualificados
+
+Profissionais qualificados são contratados, treinados e incentivados para realizar atividades
+relacionadas ao software.
+
+
+
+
 MEC.2. Disseminação do Conhecimento Relacionado ao Software
+
+O conhecimento relacionado ao software, gerado nas atividades tecnológicas e de negócio é
+disseminado.
+
+
+
+
 MEC.3. Ações de Melhorias nos Processos
+
+Melhorias, nos processos das atividades tecnológicas e de negócio, relacionadas ao software
+são realizadas.
 
 
