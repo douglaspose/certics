@@ -1,3 +1,4 @@
+
 CERTICS
 
 Organização solicitante: TV DG
@@ -55,7 +56,7 @@ DES.5. Dados Técnicos Relevantes Documentados
 
 Dados técnicos relevantes da tecnologia do software estão documentados e são de fácil acesso.
 
-]
+
 - Na pasta DES/5 contem a documentação dos requisitos e a literatura relacionada a tecnologia do software.
 
 
@@ -81,11 +82,19 @@ TEC.1. Utilização de Resultados de Pesquisa e Desenvolvimento Tecnológico
 O desenvolvimento do software utiliza resultados de pesquisa e desenvolvimento tecnológico
 (P&D).
 
+- Na pasta TEC/1 contem as parcerias e alianças realizadas para o desenvolvimento tecnológico do software e também
+a Documentação de requisitos do software, resultante de projeto de P&D.
+
+
 
 
 TEC.2. Apropriação das Tecnologias Relevantes Utilizadas no Software
 
 As tecnologias relevantes utilizadas no software são apropriadas pela Unidade Organizacional
+
+- Na pasta TEC/2 contem as certificações referente a capacitação dos profissionais da Unidade Organizacional nas tecnologias 
+relevantes presentes no software.
+
 
 
 
@@ -95,6 +104,10 @@ TEC.3. Introdução de Inovações Tecnológicas
 Ações para introduzir inovações tecnológicas no software são estimuladas e realizadas na
 Unidade Organizacional.
 
+- Na pasta TEC/3 contem ideias inovadoras resultantes das necessidades dos clientes, do trabalho conjunto com equipes de P&D e 
+ideias identificadas no planejamento estratégico da Organização, ambas incorporadas no software.
+
+
 
 
 
@@ -102,6 +115,9 @@ TEC.4. Capacidade Decisória nas Tecnologias Relevantes do Software
 
 A Unidade Organizacional tem capacidade decisória sobre as tecnologias relevantes presentes
 no software.
+
+- Na pasta TEC/4 contem registros da atualização da tecnologia relevante presente no software a partir de uma decisão
+tomada pela Unidade Organizacional.
 
 
 
@@ -118,6 +134,9 @@ GNE.1. Ações de Monitoramento do Mercado
 Ações de monitoramento de aspectos relacionados ao mercado potencial e às funcionalidades
 relacionadas do software são realizadas
 
+- Na pasta GNE/1 contem a comprovação de prospecção de necessidades de clientes potenciais e a comprovação de envolvimento 
+com parceiros técnicos para conhecer as necessidades do mercado potencial.
+
 
 
 
@@ -126,6 +145,9 @@ GNE.2. Ações de Antecipação e Atendimento das Necessidades dos Clientes
 Ações de antecipação e atendimento de necessidades de clientes, relacionadas ao software,
 são realizadas.
 
+- Na pasta GNE/2 contem registros das atualizações do software decorrente do atendimento das
+necessidades de clientes.
+
 
 
 
@@ -133,6 +155,9 @@ GNE.3. Evolução do Negócio Relacionado ao Software
 
 Ações para direcionar a evolução do negócio relacionado ao software são realizadas.
 
+- Na pasta GNE/3 contem parcerias com outras Organizações para inserir o software em outras soluções
+tecnológicas e também as ferramentas de planejamento e gestão estratégicas para apoiar a evolução
+tecnológica.
 
 
 
@@ -148,6 +173,11 @@ MEC.1. Contratação, Treinamento e Incentivo aos Profissionais Qualificados
 Profissionais qualificados são contratados, treinados e incentivados para realizar atividades
 relacionadas ao software.
 
+- Na pasta MEC/1 contem a lista de requisitos exigidos para a seleção de profissionais qualificados e o 
+processo de seleção de novos profissionais qualificados, como: aplicação de provas e/ou testes,
+entrevistas, entre outros.
+
+
 
 
 
@@ -156,6 +186,10 @@ MEC.2. Disseminação do Conhecimento Relacionado ao Software
 O conhecimento relacionado ao software, gerado nas atividades tecnológicas e de negócio é
 disseminado.
 
+- Na pasta MEC/2 contem o material utilizado em workshops, reuniões, entre outros, para disseminar aos
+profissionais o conhecimento tecnológico e de negócios.
+
+
 
 
 
@@ -163,5 +197,8 @@ MEC.3. Ações de Melhorias nos Processos
 
 Melhorias, nos processos das atividades tecnológicas e de negócio, relacionadas ao software
 são realizadas.
+
+- Na pasta MEC/3 contem a identificação de melhorias percebidas durante a execução das atividades
+tecnológicas e de negócios além dos processos documentados para a execução dessas atividades.
 
 
